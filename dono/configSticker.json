@@ -1,0 +1,10 @@
+{
+  "stickerAuthor": {
+    "description": "Especificar o autor do stickers criados através do bot. Mantenha como padrão (opcional) se desejar.",
+    "value": "{user} 👤\n{botname} [linktr.ee/gabalvsz] 🌐\n{time} 📅"
+  },
+  "stickerPack": {
+    "description": "Especificar o pacote do sticker. Mantenha o padrão para criar sticker com base em informações.",
+    "value": "⚙️ Usuário:\n🤖 Criado por:\n🕒 Tempo:"
+  }
+}

@@ -2,7 +2,7 @@
   "name": "Shiruuu",
   "version": "1.0.0",
   "description": "Base-Bot (Whatsapp)",
-  "main": "comandos.js",
+  "main": "conexão.js",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@whiskeysockets/baileys": "^6.5.0",
@@ -42,7 +42,7 @@
     "request": "^2.88.2"
   },
   "scripts": {
-    "start": "sh instalar.sh",
+    "start": "node conexão.js",
     "test": "node conexão.js"
   },
   "author": "Bkz Modz Ϟ"
